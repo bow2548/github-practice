@@ -1,2 +1,3 @@
 ไฟล์ about.txt
 ใช้สำหรับฝึกการใช้งาน git add, commit และ push
+แก้ไขไฟล์เพื่อทดสอบ Pull Request
